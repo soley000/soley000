@@ -10,12 +10,12 @@ My work combines **data engineering, machine learning, computer vision and gener
 
 ## 🎯 Focus Areas
 
-* **Data Engineering** — data pipelines, ETL, data processing, data quality, data modeling
-* **Machine Learning & MLOps** — modelling, feature engineering, experimentation, evaluation, deployment and monitoring
-* **Applied AI & Computer Vision** — image/video processing, object detection, vision models, multimodal AI
-* **Generative AI & LLM Systems** — LLM applications, RAG, embeddings, retrieval, tool calling and AI agents
-* **AI Evaluation & Research** — benchmarking, evaluation frameworks, experimentation and reproducibility
-* **Data & AI Industrialisation** — APIs, containerisation, cloud deployment and production-oriented workflows
+* **Data Engineering**: data pipelines, ETL, data processing, data quality, data modeling
+* **Machine Learning & MLOps**: modelling, feature engineering, experimentation, evaluation, deployment and monitoring
+* **Applied AI & Computer Vision**: image/video processing, object detection, vision models, multimodal AI
+* **Generative AI & LLM Systems**: LLM applications, RAG, embeddings, retrieval, tool calling and AI agents
+* **AI Evaluation & Research**: benchmarking, evaluation frameworks, experimentation and reproducibility
+* **Data & AI Industrialisation**: APIs, containerisation, cloud deployment and production-oriented workflows
 
 ---
 
@@ -23,7 +23,7 @@ My work combines **data engineering, machine learning, computer vision and gener
 
 ### Programming & Data
 
-`Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `BigQuery` · `MongoDB` · `Neo4j`
+`Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `DuckDB` · `Pydantic` · `BigQuery` · `MongoDB` · `Neo4j`
 
 ### Data Engineering
 
@@ -39,7 +39,7 @@ My work combines **data engineering, machine learning, computer vision and gener
 
 ### Generative AI & LLM
 
-`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `Retrieval & Reranking` · `Tool Calling` · `AI Agents` · `World Models` · `Generative AI Evaluation` · `Hallucination Detection`
+`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `Retrieval & Reranking` · `Tool Calling` · `AI Agents` · `LLM Evaluation` · `World Models` · `Generative AI Evaluation` · `Hallucination Detection`
 
 ### Cloud, Deployment & Tools
 
@@ -57,7 +57,7 @@ I focus on **end-to-end Data & AI systems** that connect:
 
 **Data → Engineering → Machine Learning → AI → Evaluation → Deployment**
 
-The goal is not only to build models, but to understand and develop the complete system around an AI use case — from data preparation and architecture to evaluation, deployment and continuous improvement.
+The goal is not only to build models, but to understand and develop the complete system around an AI use case, from data preparation and architecture to evaluation, deployment and continuous improvement.
 
 ---
 
@@ -81,6 +81,7 @@ My projects, technical documentation, architectures, experiments and results are
 
 📧 [Email](mailto:orosettemichele@gmail.com)
 💼 [LinkedIn](https://linkedin.com/in/rosette-michele)
+🌐 [Website](https://soley000.github.io)
 
 ---
 
